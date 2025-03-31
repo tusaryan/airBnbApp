@@ -122,5 +122,3 @@ Here are some example screenshots from the Swagger UI demonstrating available AP
 
 * **Example 5:**
   ![Swagger UI - Endpoint Detail 3](./public/swagger-ui-5.png "API Sample - Detail 3")
-
-*(Ensure the paths like `./public/swagger-ui-?.png` are correct relative to this README file and the images are present in the repository. Adjust paths if needed, e.g., `./docs/images/swagger-ui-1.png`)*
